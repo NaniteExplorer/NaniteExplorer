@@ -2,7 +2,7 @@
 
 **Software Engineer · Full-stack development & computational geometry**
 
-I work on CAD software at **Evolutionary Algorithms (EVA)**. My work spans full-stack web applications, geometry tooling, APIs, data integrations, and interactive 3D interfaces.
+I work on CAD software Engines. My work spans full-stack web applications, geometry tooling, APIs, data integrations, and interactive 3D interfaces.
 
 I enjoy understanding how software works beneath its abstractions: how data moves, how algorithms behave, and where performance is lost. I care about correctness, clear architecture, and code that other engineers can maintain.
 
