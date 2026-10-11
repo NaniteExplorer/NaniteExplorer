@@ -1,34 +1,74 @@
-# Hi, I'm Debasish Rana ⚡
+# Debasish Rana
 
-I am a software engineer focused on building robust systems by understanding how they work under the hood. I rarely settle for surface-level abstractions; my curiosity naturally gravitates toward **scalable backend architectures, system-level thinking, and performance-driven engineering**.
+**Software Engineer · Full-stack development & computational geometry**
 
-### 🔭 Current Focus & Trajectory
-While I have a strong foundation in full-stack development, my deep-dive learning and current projects are heavily oriented toward:
-- **Systems Engineering:** Operating Systems internals, concurrency, and low-latency architectures.
-- **Algorithmic Rigor:** Deepening problem-solving skills through Competitive Programming (C++).
-- **Target Trajectory:** Transitioning toward infrastructure-aware development, Quantitative systems, and HFT-level engineering.
+I work on CAD software at **Evolutionary Algorithms (EVA)**. My work spans full-stack web applications, geometry tooling, APIs, data integrations, and interactive 3D interfaces.
 
-### 🛠️ Technical Arsenal
+I enjoy understanding how software works beneath its abstractions: how data moves, how algorithms behave, and where performance is lost. I care about correctness, clear architecture, and code that other engineers can maintain.
 
-| Category | Technologies |
+[Portfolio & Blog](https://debasishrana.vercel.app) · [LinkedIn](https://www.linkedin.com/in/debasish-rana-6b4bb021a/) · [Email](mailto:debasishrana1452003@gmail.com) · [X](https://x.com/Debasis03527067)
+
+---
+
+## Professional work
+
+### Software Engineer — Evolutionary Algorithms (EVA)
+
+**2025 – Present**
+
+Working on a CAD-based product platform for design and manufacturing teams.
+
+- Develop core modules that translate geometric and engineering workflows into dependable software.
+- Own features across design, implementation, testing, and release.
+- Collaborate across engineering and design to deliver features against production workloads.
+- Focus on correctness, performance, and maintainable architecture in geometry-heavy applications.
+
+## Engineering focus
+
+**Full-stack development**  
+Building applications across the frontend, backend, and data layer, including authentication, role-based workflows, payments, dashboards, and deployment.
+
+**Graphics & computational geometry**  
+Working with interactive 3D interfaces, CSG, parametric shapes, and the mathematical foundations behind geometry tooling.
+
+**Data & integrations**  
+Connecting external APIs, normalizing data, handling incomplete responses, and building synchronization and caching workflows.
+
+**Performance & maintainability**  
+Investigating slow paths, improving data flow, validating inputs, and keeping implementation boundaries clear.
+
+## Technical toolkit
+
+| Area | Technologies |
 |---|---|
-| **Systems & Languages** | `C++` (Primary for logic/CP), `TypeScript`, `JavaScript`, `C`, `Python` |
-| **Backend & Architecture** | `Node.js`, `Express.js`, `MongoDB`, SQL, REST APIs, System Design |
-| **Graphics & Geometry** | `Three.js`, `WebGL`, CSG, Vector Math, `Math.js`, `Maker.js` |
-| **Frontend** | `React.js`, `Redux`, `Tailwind CSS` |
-| **Core Competencies** | Data Structures & Algorithms, Concurrency, Computational Logic |
+| **Languages** | TypeScript, JavaScript, C++, C, Python |
+| **Frontend** | React, Next.js, Redux, Tailwind CSS, Framer Motion |
+| **Backend** | Node.js, Express, REST APIs, authentication |
+| **Data** | PostgreSQL, MongoDB, Redis, GraphQL API consumption |
+| **Graphics & geometry** | Three.js, React Three Fiber, WebGL, CSG, vector math, Maker.js |
+| **Tools & publishing** | Git, Vercel, Zod, MDX |
 
-### 🚀 Featured Engineering
+## How I work
 
-#### [Amaezekart](https://github.com/NaniteExplorer/AmaezeKart) | Production-Grade E-Commerce Architecture
-Designed and deployed a complete end-to-end MERN application emphasizing clean architectural boundaries.
-- **Backend:** Designed a modular backend architecture with authentication, state management, and payment integration. Built a scalable API layer with clean separation of concerns.
-- **Frontend:*Developed a state-driven frontend using React + Redux.
+- Understand the problem and its constraints before choosing an implementation.
+- Make architectural decisions that fit the workload and scope.
+- Investigate performance with profiling and measurements.
+- Use validation and automated checks to support correctness.
+- Document decisions and communicate progress clearly.
 
-> *"Tech stacks change. Problem-solving and system thinking don’t."* <br>
-> I build systems to be scalable, efficient, and thoroughly understood—not just implemented.
+## Collaboration & freelance
 
-### 📫 Let's Connect
-Always open to geeking out over C++ optimizations, distributed systems, or the next tough logic problem.
+I am open to freelance work and collaboration involving:
 
-[LinkedIn](https://www.linkedin.com/in/debasish-rana-6b4bb021a/) • [Twitter / X](https://x.com/Debasis03527067) • [Portfolio/Blog](your-link)
+- Full-stack web applications and internal tools.
+- APIs, integrations, authentication, and payment workflows.
+- Interactive 3D experiences and geometry tooling.
+- Performance investigation, refactoring, and framework upgrades.
+
+I value a clear scope, regular communication, and a straightforward handover with maintainable code and useful documentation.
+
+For open-source collaboration, my interests include **3D/graphics, computational geometry, web tooling, and developer infrastructure**.
+
+**Contact:** [debasishrana1452003@gmail.com](mailto:debasishrana1452003@gmail.com) · [LinkedIn](https://www.linkedin.com/in/debasish-rana-6b4bb021a/)
+
+Explore my work and writing at **[debasishrana.vercel.app](https://debasishrana.vercel.app)**.
